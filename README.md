@@ -1,4 +1,6 @@
 # Venus_RAT
+![image](https://github.com/hinmis/Venus_RAT/assets/141452638/ee66b33c-505e-4b0d-bf2e-f5882c30f3da)
+
 
 A powerful Remote Access Trojan that uses Discord as C2. This means you can control your devices through Discord.
 
